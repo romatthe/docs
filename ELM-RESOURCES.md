@@ -14,6 +14,7 @@
 * The structure of an Elm application: https://css-tricks.com/structure-elm-application/
 * Testing Elm apps: https://elmprogramming.com/easy-to-test.html
 * Learning Elm basics: https://elmprogramming.com/
+* Tour of an Elm SPA: https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa
 
 ## Libraries
 
