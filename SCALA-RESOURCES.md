@@ -59,6 +59,7 @@
 * App with shows use of tagless final: https://github.com/47deg/sample-tagless-final
 * App with http4s, doobie in CQRS/ES system: https://github.com/LambdaFanatics/pure-cqrs-example
 * App that mirrors classic pet-store with FP libs: https://github.com/pauljamescleary/scala-pet-store
+* ScalaJS SPA that uses ScalaJS-React, Diode, etc.: https://github.com/ochrons/scalajs-spa-tutorial
 
 ## Exercises:
 
