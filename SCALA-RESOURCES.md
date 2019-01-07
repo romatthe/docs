@@ -12,6 +12,8 @@
 * The typelevel ecosystem: https://blog.scalac.io/typelevel-ecosystem.html
 * Free monads and event sourcing: http://www.stephenzoio.com/free-monads-and-event-sourcing/
 * Talk on using Slinky: https://www.youtube.com/watch?v=AkMVfy_86HY
+* Slides on using Doobie: https://www.slideshare.net/normation/doobie-feedbacks-from-the-trenches-scalaio-2016
+* Http4s, Doobie and Circe: https://www.slideshare.net/GaryCoady/http4s-doobie-and-circe-the-functional-web-stack
 
 ## Libraries:
 
@@ -28,6 +30,19 @@
 * Purely functional layer on top of Finagle: https://github.com/finagle/finch
 * Purely functional HTTP client: https://github.com/pepegar/hammock
 * Command-line parser: https://github.com/bkirwi/decline
+* JSON library powered by Cats: https://github.com/circe/circe
+
+### Data Access:
+
+* Very robust ElasticSearch client: https://github.com/sksamuel/elastic4s
+* Complete Cassandra client: https://github.com/outworkers/phantom
+* Embedded quasiquoted SQL DSL: https://github.com/getquill/quill
+* Reactive, nonblocking MongoDB client: https://github.com/ReactiveMongo/ReactiveMongo
+* FS2-based Redis client (cats-friendly!): https://github.com/gvolpe/fs2-redis
+* Nonblocking Redis client: https://github.com/scredis/scredis
+* Slick (new versions look quite a bit nicer): https://github.com/slick/slick
+* Opiniated RabbitMQ client: https://github.com/SpinGo/op-rabbit
+* Persistence framework for SQL and NoSQL (support Cats IO?): http://longevityframework.org/
 
 ### Web:
 
@@ -36,6 +51,7 @@
 * React wrapper: https://github.com/ahnfelt/react4s
 * React apps in Scala: https://slinky.shadaj.me/
 * Another React wrapper for ScalaJS (most popular?): https://github.com/japgolly/scalajs-react
+* State management in immutable ScalaJS apps: https://github.com/suzaku-io/diode
 
 ### Utilities:
 
@@ -49,6 +65,12 @@
 * Type-safe enumerations: https://github.com/lloydmeta/enumeratum
 * Scala code coverage: https://github.com/scoverage/scalac-scoverage-plugin
 * Config loading: https://github.com/pureconfig/pureconfig
+* Function UUIDs: https://christopherdavenport.github.io/fuuid/
+* Crypto library: https://github.com/jmcardon/tsec
+* Scala ProtoBuff compiler: https://github.com/scalapb/ScalaPB
+* Scala Thrift code generator: http://twitter.github.io/scrooge/
+* Macro that replaces DI solutions: https://github.com/adamw/macwire
+* Scala linting tool: https://github.com/wartremover/wartremover
 
 ## Example Applications:
 
@@ -61,6 +83,10 @@
 * App that mirrors classic pet-store with FP libs: https://github.com/pauljamescleary/scala-pet-store
 * ScalaJS SPA that uses ScalaJS-React, Diode, etc.: https://github.com/ochrons/scalajs-spa-tutorial
 
-## Exercises:
+## Exercises, Tutorials, Guides:
 
-* https://www.scala-exercises.org/
+* Exercises divided by (very interesting!) subjects: https://www.scala-exercises.org/
+* Learn FP by doing: https://github.com/dehun/learn-fp/
+* The Type Astronaut's Guide to Shapeless: https://underscore.io/books/shapeless-guide/
+* Scala with Cats: https://underscore.io/books/scala-with-cats/
+* Functional Programming for Mortals (Book): https://leanpub.com/fpmortals/read

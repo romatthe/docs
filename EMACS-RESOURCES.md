@@ -18,6 +18,7 @@
 * Setting up Emacs for JS: https://emacs.cafe/emacs/javascript/setup/2017/05/09/emacs-setup-javascript-2.html
 * Setting up Intero for Haskell: https://blog.alainodea.com/en/article/490/haskell-intero-in-emacs-first-impressions-and-howto
 * More Intero: https://www.vacationlabs.com/haskell/environment-setup.html
+* Large list of helpful Emacs videos: https://cestlaz.github.io/stories/emacs/
 
 ## Packages:
 
