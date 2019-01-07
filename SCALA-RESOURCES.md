@@ -11,6 +11,7 @@
 * Hints on using Cats-Effect IO: https://www.reddit.com/r/scala/comments/7vste9/cats_effect_io_monad/
 * The typelevel ecosystem: https://blog.scalac.io/typelevel-ecosystem.html
 * Free monads and event sourcing: http://www.stephenzoio.com/free-monads-and-event-sourcing/
+* Talk on using Slinky: https://www.youtube.com/watch?v=AkMVfy_86HY
 
 ## Libraries:
 
@@ -34,6 +35,7 @@
 * Reactive data-bindings: https://github.com/ThoughtWorksInc/Binding.scala
 * React wrapper: https://github.com/ahnfelt/react4s
 * React apps in Scala: https://slinky.shadaj.me/
+* Another React wrapper for ScalaJS (most popular?): https://github.com/japgolly/scalajs-react
 
 ### Utilities:
 
