@@ -105,3 +105,8 @@
 * Steve Purcell's massive config: https://github.com/purcell/emacs.d
 * Redguardtoo's massive config: https://github.com/redguardtoo/emacs.d
 * Centaur Emacs: https://github.com/seagle0128/.emacs.d
+
+## Themes:
+
+* Atom One Dark: https://github.com/jonathanchu/atom-one-dark-theme
+* Doom Emacs themes: https://github.com/hlissner/emacs-doom-themes
