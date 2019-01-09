@@ -14,6 +14,19 @@
 * Talk on using Slinky: https://www.youtube.com/watch?v=AkMVfy_86HY
 * Slides on using Doobie: https://www.slideshare.net/normation/doobie-feedbacks-from-the-trenches-scalaio-2016
 * Http4s, Doobie and Circe: https://www.slideshare.net/GaryCoady/http4s-doobie-and-circe-the-functional-web-stack
+* Error handling in http4s: https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html
+* Error handling in http4s, Part 2: https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html
+* A tale of Semiring: https://typelevel.org/blog/2018/11/02/semirings.html
+* An introduction to Cats-MTL: https://typelevel.org/blog/2018/10/06/intro-to-mtl.html
+* Refactoring with monads: https://typelevel.org/blog/2018/08/07/refactoring-monads.html
+* Testing with Specs2 and ScalaCheck: https://typelevel.org/blog/2018/07/12/testing-in-the-wild.html
+* Optimizing Tagless Final: https://typelevel.org/blog/2017/12/27/optimizing-final-tagless.html
+* Optimizing Tagless Final, Part 2: https://typelevel.org/blog/2018/06/27/optimizing-tagless-final-2.html
+* Deriving clients and servers from typed APIs: https://typelevel.org/blog/2018/06/15/typedapi.html
+* Shared state in functional programming: https://typelevel.org/blog/2018/06/07/shared-state-in-fp.html
+* Tagless Final algebras and Streaming: https://typelevel.org/blog/2018/05/09/tagless-final-streaming.html
+* Rethinking MonadError: https://typelevel.org/blog/2018/04/13/rethinking-monaderror.html
+* Validated configuration with Ciris: https://typelevel.org/blog/2017/06/21/ciris.html
 
 ## Libraries:
 
