@@ -44,6 +44,7 @@
 * Purely functional HTTP client: https://github.com/pepegar/hammock
 * Command-line parser: https://github.com/bkirwi/decline
 * JSON library powered by Cats: https://github.com/circe/circe
+* Utilities for using the Tagless Final style: https://github.com/typelevel/cats-tagless
 
 ### Data Access:
 
