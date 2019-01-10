@@ -23,6 +23,8 @@
 * A Guided Tour of Emacs: https://www.gnu.org/software/emacs/tour/
 * Emacs for Developers: https://github.com/pierre-lecocq/emacs4developers
 * A Woodnotes Guide to Emacs: http://therandymon.com/woodnotes/emacs-for-writers/emacs-for-writers.html
+* Mastering Emacs in One Year: https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org
+* GNU Emacs Reference Chart: https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf
 
 ## Packages:
 
@@ -87,6 +89,7 @@
 * Scala-mode: https://github.com/ensime/emacs-scala-mode
 * SBT-mode: https://github.com/ensime/emacs-sbt-mode
 * Scala debugger: https://github.com/ensime/scala-debugger
+* LSP client for Scala (usable with Metals): https://github.com/rossabaker/lsp-scala
 
 ### For Common Lisp:
 
@@ -164,6 +167,7 @@
 * Redguardtoo's massive config: https://github.com/redguardtoo/emacs.d
 * Centaur Emacs: https://github.com/seagle0128/.emacs.d
 * https://github.com/senny/cabbage
+* Sacha Shua's massive, well structured config: http://pages.sachachua.com/.emacs.d/Sacha.html
 
 ## Themes:
 
