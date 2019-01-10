@@ -20,6 +20,9 @@
 * More Intero: https://www.vacationlabs.com/haskell/environment-setup.html
 * Large list of helpful Emacs videos: https://cestlaz.github.io/stories/emacs/
 * Emacs Rocks videos: https://www.youtube.com/user/emacsrocks/videos
+* A Guided Tour of Emacs: https://www.gnu.org/software/emacs/tour/
+* Emacs for Developers: https://github.com/pierre-lecocq/emacs4developers
+* A Woodnotes Guide to Emacs: http://therandymon.com/woodnotes/emacs-for-writers/emacs-for-writers.html
 
 ## Packages:
 
@@ -150,15 +153,17 @@
 * Kubernetes management in Emacs: https://github.com/chrisbarrett/kubernetes-el
 * Display Emoji: https://github.com/iqbalansari/emacs-emojify
 * Dependency management on top of use-package: https://gitlab.com/edvorg/req-package
+* Customizable sidebar:  https://github.com/sebastiencs/sidebar.el
 
 ## Example Config:
 
 * https://github.com/rememberYou/.emacs.d
 * https://github.com/rememberYou/dotfiles
 * https://github.com/wasamasa/dotemacs
-* Steve Purcell's massive config: https://github.com/purcell/emacs.d
+* Steve Purcell's massive config (well-structured): https://github.com/purcell/emacs.d
 * Redguardtoo's massive config: https://github.com/redguardtoo/emacs.d
 * Centaur Emacs: https://github.com/seagle0128/.emacs.d
+* https://github.com/senny/cabbage
 
 ## Themes:
 
@@ -167,3 +172,4 @@
 * Apropospriate: https://github.com/waymondo/apropospriate-theme
 * Monokai: https://github.com/oneKelvinSmith/monokai-emacs
 * Ample: https://github.com/jordonbiondo/ample-theme
+* ZeroDark: https://github.com/NicolasPetton/zerodark-theme
