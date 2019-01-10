@@ -19,6 +19,7 @@
 * Setting up Intero for Haskell: https://blog.alainodea.com/en/article/490/haskell-intero-in-emacs-first-impressions-and-howto
 * More Intero: https://www.vacationlabs.com/haskell/environment-setup.html
 * Large list of helpful Emacs videos: https://cestlaz.github.io/stories/emacs/
+* Emacs Rocks videos: https://www.youtube.com/user/emacsrocks/videos
 
 ## Packages:
 
@@ -37,6 +38,9 @@
 * Emacs Nu, traditional keybindings: https://github.com/pyluyten/emacs-nu
 * Swiper: https://github.com/abo-abo/swiper
 * Ivy and Counsel: https://github.com/abo-abo/swiper
+* Drag Stuff, mode for moving blocks arounds (I currently use a custom function for this): https://github.com/rejeep/drag-stuff.el
+* Awesome-tabs, configurable tabs: https://github.com/manateelazycat/awesome-tab
+* Ranger.el, ranger inside Emacs: https://github.com/ralesi/ranger.el
 
 ### General Programming:
 
@@ -50,12 +54,16 @@
 * Project management: https://github.com/bbatsov/projectile
 * Syntax checking: https://github.com/flycheck/flycheck
 * Minor mode for dealing with parens: https://github.com/Fuco1/smartparens
+* Nerd-Commenter, advances commenting functionality: https://github.com/redguardtoo/evil-nerd-commenter
+* Indent-guide, visual guide for indentation level: https://github.com/zk-phi/indent-guide
+* Restclient.el: https://github.com/pashky/restclient.el
 
 ### For Rust:
 
 * Rust-mode: https://github.com/rust-lang/rust-mode
 * Cargo-mode: https://github.com/kwrooijen/cargo.el
 * Racer: https://github.com/racer-rust/emacs-racer
+* Flycheck support for Rust and Cargo: https://github.com/flycheck/flycheck-rust
 * Emacs support for LSP: https://github.com/emacs-lsp/lsp-mode
 * Emacs support for RLS via LSP: https://github.com/emacs-lsp/lsp-rust
 * Another LSP client: https://github.com/joaotavora/eglot
@@ -63,6 +71,33 @@
 ### For Haskell:
 
 * Intero: https://github.com/commercialhaskell/intero
+* Structured Haskell mode: https://github.com/projectional-haskell/structured-haskell-mode
+* HaRe, Haskell Refactoring tools: https://github.com/alanz/HaRe
+* Using Emacs for Haskell development: https://github.com/serras/emacs-haskell-tutorial/blob/master/tutorial.md
+* Haskell IDE engine: https://github.com/haskell/haskell-ide-engine
+* Emacs LSP client for Haskell usuable with Haskell-IDE-Engine: https://github.com/emacs-lsp/lsp-haskell
+* LSP UI, for use with an LSP client: https://github.com/emacs-lsp/lsp-ui
+
+### For Scala:
+
+* ENSIME: https://github.com/ensime/ensime-emacs
+* Scala-mode: https://github.com/ensime/emacs-scala-mode
+* SBT-mode: https://github.com/ensime/emacs-sbt-mode
+* Scala debugger: https://github.com/ensime/scala-debugger
+
+### For Common Lisp:
+
+* Sly, complete environment for CL: https://github.com/joaotavora/sly
+
+### For Racket:
+
+* Racket-mode: https://github.com/greghendershott/racket-mode
+
+### For PureScript:
+
+* PureScript-mode: https://github.com/dysinger/purescript-mode
+* psci-mode: https://github.com/purescript-emacs/emacs-psci
+* psci-ide-mode: https://github.com/epost/psc-ide-emacs
 
 ### For Front-end:
 
@@ -70,6 +105,7 @@
 * Live web development: https://github.com/skeeto/skewer-mode
 * JavaScript development environment: https://github.com/NicolasPetton/Indium
 * Another JavaScript mode: https://github.com/mooz/js2-mode
+* Working with TypeScript: https://github.com/ananthakumaran/tide
 
 ### For working with Nix:
 
@@ -77,6 +113,11 @@
 * More utilities: https://github.com/travisbhartwell/nix-emacs
 * Nix-mode: https://github.com/NixOS/nix-mode
 * Nix-Shell for Emacs: https://github.com/shlevy/nix-buffer
+
+### For Latex:
+
+* AUCTEX, a robust Latex package: https://www.gnu.org/software/auctex/
+* Latex preview pane: https://www.emacswiki.org/emacs/LaTeXPreviewPane
 
 ### Utility:
 
@@ -94,9 +135,21 @@
 * Growl-like notifications for Emacs: https://github.com/jwiegley/alert
 * Modernize Emacs package menu: https://github.com/Malabarba/paradox
 * Spacemacs powerline modeline theme: https://github.com/TheBB/spaceline
+* Telephone line, an alternate powerline mode: https://github.com/dbordak/telephone-line
+* Mode icons for the modeline: https://github.com/ryuslash/mode-icons
 * Doom Emacs modeline theme: https://github.com/seagle0128/doom-modeline
 * Working with Git forges with Magit and Emacs: https://github.com/magit/forge
 * A better help buffer: https://github.com/Wilfred/helpful
+* Set up the $PATH from the users shell: https://github.com/purcell/exec-path-from-shell
+* Tiny graphical system monitor: https://github.com/zk-phi/symon/
+* Circe, an IRC client: https://github.com/jorgenschaefer/circe
+* Weechat: https://github.com/the-kenny/weechat.el
+* Emacs-Slack: https://github.com/yuya373/emacs-slack
+* Stack Exchange for Emacs: https://github.com/vermiculus/sx.el/
+* Docker management in Emacs: https://github.com/Silex/docker.el
+* Kubernetes management in Emacs: https://github.com/chrisbarrett/kubernetes-el
+* Display Emoji: https://github.com/iqbalansari/emacs-emojify
+* Dependency management on top of use-package: https://gitlab.com/edvorg/req-package
 
 ## Example Config:
 
@@ -111,3 +164,6 @@
 
 * Atom One Dark: https://github.com/jonathanchu/atom-one-dark-theme
 * Doom Emacs themes: https://github.com/hlissner/emacs-doom-themes
+* Apropospriate: https://github.com/waymondo/apropospriate-theme
+* Monokai: https://github.com/oneKelvinSmith/monokai-emacs
+* Ample: https://github.com/jordonbiondo/ample-theme
