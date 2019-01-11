@@ -16,3 +16,4 @@
 
 * Example Home Manager config: https://github.com/yrashk/nix-home/blob/master/home.nix
 * Nix workstation configs: https://github.com/mrkkrp/nix-workstation
+* Machine configs: https://github.com/Baughn/machine-config 
