@@ -29,6 +29,8 @@
 * Validated configuration with Ciris: https://typelevel.org/blog/2017/06/21/ciris.html
 * Documentation for Cats-Effect IO: https://typelevel.org/cats-effect/datatypes/io.html
 * Converting Scala Future to Monix Task: https://monix.io/blog/2018/11/08/tutorial-future-to-task.html
+* Intro to Category Theory: https://www.youtube.com/watch?v=Ss149MsZluI
+* Enterprise Algebras: https://www.youtube.com/watch?v=oAu0MIe072M
 
 ## Libraries:
 
@@ -98,6 +100,7 @@
 * Type-safe RPC: https://github.com/cornerman/sloth
 * HTTP based RPC: https://github.com/julienrf/endpoints
 * Complete rewrite of Thrift in Scala: https://twitter.github.io/scrooge/
+* Scala build server: https://github.com/scalacenter/bloop
 
 ## Example Applications:
 

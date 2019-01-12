@@ -46,6 +46,7 @@
 * Drag Stuff, mode for moving blocks arounds (I currently use a custom function for this): https://github.com/rejeep/drag-stuff.el
 * Awesome-tabs, configurable tabs: https://github.com/manateelazycat/awesome-tab
 * Ranger.el, ranger inside Emacs: https://github.com/ralesi/ranger.el
+* Emacs window numbering: https://github.com/deb0ch/emacs-winum
 
 ### General Programming:
 
@@ -168,6 +169,7 @@
 * Centaur Emacs: https://github.com/seagle0128/.emacs.d
 * https://github.com/senny/cabbage
 * Sacha Shua's massive, well structured config: http://pages.sachachua.com/.emacs.d/Sacha.html
+* Chris Allen's large config (includes config for Haskell): https://github.com/bitemyapp/dotfiles
 
 ## Themes:
 

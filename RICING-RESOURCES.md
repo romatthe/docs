@@ -1,5 +1,9 @@
 # Ricing Resources:
 
+## Articles:
+
+* Beginners guide to Xmonad: https://beginners-guide-to-xmonad.readthedocs.io/index.html
+
 ## Dotfiles:
 
 * Xmonad dotfiles: http://dotshare.it/category/wms/xmonad/
@@ -15,7 +19,7 @@
 * Example of using Taffybar: https://github.com/jirkamarsik/taffybar-config/blob/master/taffybar.hs
 * Another example of using Taffbar: https://github.com/willprice/dotfiles/blob/master/taffybar/.config/taffybar/taffybar.hs
 
-## Tools
+## Tools: 
 
 * Xmonad: https://github.com/xmonad/xmonad
 * Xmonad Contrib modules: https://github.com/xmonad/xmonad-contrib
