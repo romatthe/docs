@@ -27,6 +27,8 @@
 * Tagless Final algebras and Streaming: https://typelevel.org/blog/2018/05/09/tagless-final-streaming.html
 * Rethinking MonadError: https://typelevel.org/blog/2018/04/13/rethinking-monaderror.html
 * Validated configuration with Ciris: https://typelevel.org/blog/2017/06/21/ciris.html
+* Documentation for Cats-Effect IO: https://typelevel.org/cats-effect/datatypes/io.html
+* Converting Scala Future to Monix Task: https://monix.io/blog/2018/11/08/tutorial-future-to-task.html
 
 ## Libraries:
 
@@ -45,6 +47,13 @@
 * Command-line parser: https://github.com/bkirwi/decline
 * JSON library powered by Cats: https://github.com/circe/circe
 * Utilities for using the Tagless Final style: https://github.com/typelevel/cats-tagless
+* Streaming gRPC over FS2: https://github.com/fiadliel/fs2-grpc
+* Converting Scala Future to Scalaz Task: https://github.com/Verizon/delorean
+* Streaming Kafka client: https://github.com/Spinoco/fs2-kafka
+* Another one: https://github.com/ovotech/fs2-kafka
+* Streaming RabbitMQ client: https://github.com/gvolpe/fs2-rabbit
+* Streaming Redis client: https://github.com/gvolpe/fs2-redis
+* Stream-based Scodec library: https://github.com/scodec/scodec-stream
 
 ### Data Access:
 
@@ -85,6 +94,10 @@
 * Scala Thrift code generator: http://twitter.github.io/scrooge/
 * Macro that replaces DI solutions: https://github.com/adamw/macwire
 * Scala linting tool: https://github.com/wartremover/wartremover
+* Macro for creating RPC between Scala systems: https://github.com/lihaoyi/autowire
+* Type-safe RPC: https://github.com/cornerman/sloth
+* HTTP based RPC: https://github.com/julienrf/endpoints
+* Complete rewrite of Thrift in Scala: https://twitter.github.io/scrooge/
 
 ## Example Applications:
 
@@ -96,6 +109,7 @@
 * App with http4s, doobie in CQRS/ES system: https://github.com/LambdaFanatics/pure-cqrs-example
 * App that mirrors classic pet-store with FP libs: https://github.com/pauljamescleary/scala-pet-store
 * ScalaJS SPA that uses ScalaJS-React, Diode, etc.: https://github.com/ochrons/scalajs-spa-tutorial
+* Using Freestyle RPC: https://github.com/frees-io/frees-rpc-workshop
 
 ## Exercises, Tutorials, Guides:
 
